@@ -1,5 +1,6 @@
 # easyMap
 A map plugin using gaode-map(a map provider in china),help you creating map descriptions fast
+
 如果对您有帮助，欢迎start一下哦！
 ## before start 
 你应该申请高德地图key密钥，使用script标签预先加载到页面，里面的key仅做测试用。强烈建议您申请自己的key，不花钱的。<script type="text/javascript"src="http://webapi.amap.com/maps?v=1.3&key=36a7ea407ccfb046b14579fe1b05fce5"></script>
